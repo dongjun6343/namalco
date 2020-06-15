@@ -1,17 +1,17 @@
 # namalco(나는 말로 코딩한다.)
+### 음성인식기반 웹 IDE
 
 
-# 음성인식기반 웹 IDE
+#### 대덕인재개발원 최종 프로젝트(4.13 ~ 5.30)
+
+##### PL박동준 , TA정윤도, UA박대현, AA최명철, DA오다솜
 
 
+###### SVN을 사용해서 프로젝트를 진행했으며
+###### 개발원 서버에 코드가 저장되어 있습니다.
 
-## 대덕인재개발원 최종 프로젝트(4.13 ~ 5.30)
-
-## PL박동준 , TA정윤도, UA박대현, AA최명철, DA오다솜
-
-
-## SVN을 사용해서 프로젝트를 진행했으며
-## 개발원 서버에 코드가 저장되어 있습니다.
+### 개발 일정
+![image](https://user-images.githubusercontent.com/45116087/84615291-9652e880-af03-11ea-8d70-dbc45d26c132.png)
 
 ### 개발 환경
 ![2](https://user-images.githubusercontent.com/45116087/84613851-50942100-aeff-11ea-93e9-339fe25b6563.PNG)
@@ -26,3 +26,7 @@
 
 #### * Git API , jsoup을 통한 깃 import와 commit 기능 구축
 ####      ㄴ import시 git의 다운로드 url을 jsoup을 이용해서 크롤링을 한 후 문자열로 추출
+
+
+### 프로젝트 소개
+![캡처](https://user-images.githubusercontent.com/45116087/84614408-fa27e200-af00-11ea-95a5-9555f7169f9e.PNG)
